@@ -4,7 +4,7 @@
 #121.22M is the sum of revenue.
 #13.83M is the sum of profit.
 
-Analysis on the sum of units sold by product was carried out, it turned out that Biro had the highest sum of units sold, while A4 Paper was the lowest.
+A thorough analysis on the sum of units sold by product was carried out, it turned out that Biro had the highest sum of units sold, while A4 Paper was the lowest.
 
 Sum of units sold by state was also analysed and Lagos State came out top, at the bottom is Osun State.
 
